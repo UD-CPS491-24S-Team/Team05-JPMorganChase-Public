@@ -1,3 +1,5 @@
 # Team 05 Public Repository
 
-This is a jekyll theme that can be located [here](https://github.com/pages-themes/cayman)
+Access our [GitHub Pages site](https://ud-cps491-24s-team.github.io/Team05-JPMorganChase-Public/)!
+
+This is the Cayman jekyll theme that can be located [here](https://github.com/pages-themes/cayman)
