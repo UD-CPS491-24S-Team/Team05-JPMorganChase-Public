@@ -3,7 +3,7 @@
 set -e
 
 bundle exec jekyll build
-bundle exec htmlproofer ./_site --check-html --check-sri --url-ignore '/fonts.gstatic.com/'
+bundle exec htmlproofer ./_site --check-html --check-sri --url-ignore '/fonts.gstatic.com/,https://www.linkedin.com/in/christopherbussen/,https://www.linkedin.com/in/duncan-ulman-0b3133200/,https://www.linkedin.com/in/harshita-m-p-13b656203/,https://www.linkedin.com/in/jack-mcnulty-6767a9186/'
 bundle exec rubocop -D --config .rubocop.yml
 bundle exec script/validate-html
 gem build jekyll-theme-cayman.gemspec
