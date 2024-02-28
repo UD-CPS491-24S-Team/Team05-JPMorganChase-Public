@@ -16,7 +16,9 @@ Chris is a senior Computer Science student with minors in Mathematics and Data A
 
 **Josephine Juhring**
 
-Josephine is a senior Computer Informations Systems student with concentrations in Cyber Defense, AI & Data Science, and Software Engineering at the University of Dayton. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<img src="assets/images/jjuhring-professional.jpg" width="50%" height="50%" alt="Josephine Juhring" title="Professional Headshot">
+
+Josie is a senior Computer Information Systems student graduating in May 2024. She has concentrations in Cyber Defense and Software Engineering. She currently works part-time as a Scrum Master for Riverside Research, and will transition to full-time after graduation. Please connect with her on LinkedIn <a href="https://www.linkedin.com/in/josiejuhring/">here.</a>
 
 **Jack McNulty**
 
@@ -26,7 +28,7 @@ Jack is a senior Computer Science student at the University of Dayton graduating
 
 **Harshita M.P.**
 
-Harshita is a senior Computer Science student at the University of Dayton with a concentration in Cyber Defense graduating in May of 2024. Her academic focus aligns with her interests in cyber defense, RPA, and AI. Harshita aims to continue her education by pursuing a Master's degree in Computer Science/Cybersecurity. Please connect with her on LinkedIn <a href="https://www.linkedin.com/in/harshita-m-p-13b656203/">here.</a> 
+Harshita is a senior Computer Science student at the University of Dayton with a concentration in Cyber Defense graduating in December of 2024. Her academic focus aligns with her interests in cyber defense, RPA, and AI. Harshita aims to continue her education by pursuing a Master's degree in Computer Science/Cybersecurity. Please connect with her on LinkedIn <a href="https://www.linkedin.com/in/harshita-m-p-13b656203/">here.</a> 
 
 **Duncan Ulman**
 
