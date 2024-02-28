@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# Project Purpose
+## Project Purpose
 
 The purpose of this project is to simulate the processing of streaming financial transactional data in real-time. The team is leveraging Amazon Web Services (AWS) Free Tier to build a data pipeline that validates, processes, and serves the streaming data via an API. The services that are being used are AWS Lambda, Amazon Simple Storage Service (S3), FastAPI, Amazon EventBridge, Amazon Relational Database Service (RDS) for PostgreSQL, and Kubernetes deployed to an Amazon Elastic Compute Cloud (EC2) virtual machine instance.
 
-# Team Members
+## Team Members
 
 **Christopher Bussen**
 
