@@ -6,6 +6,16 @@ layout: default
 
 The purpose of this project is to simulate the processing of streaming financial transactional data in real-time. The team is leveraging Amazon Web Services (AWS) Free Tier to build a data pipeline that validates, processes, and serves the streaming data via an API. The services that are being used are AWS Lambda, Amazon Simple Storage Service (S3), FastAPI, Amazon EventBridge, Amazon Relational Database Service (RDS) for PostgreSQL, and Kubernetes deployed to an Amazon Elastic Compute Cloud (EC2) virtual machine instance.
 
+<h1>Month 1 Overview</h1>
+
+Month 1 was dedicated to design of the AWS infrastructure and technologies that will be used to bring this project to life. The team worked back and forth with our sponsor to refine the design to something that conforms to the AWS Free Tier, while also accomplishing our goal. We ended up deciding on the design below this description. There were a total of four designs that we ended up not using after extensive research and began to plan ahead for month two development.
+
+<img src="assets/images/capstone_infra_freetier.jpg">
+
+<h1>Month 2 Overview</h2>
+
+Month 2 was entirely dedicated to development of the design that was realized in month 1. We were able to develop a Lambda function to pull and forward data, stood up an RDS for PostgreSQL database to hold our verified data, and deployed two EC2 instances to run a Kubernetes cluster that will do our data integrity verification and validation. We also developed the applications in Java that will be doing the integrity verification and validation. Take a look at a <a href="https://youtu.be/nTz7m1ExWQE">preliminary demo of the project</a>, which shows going from AWS S3 to our database and the processing in between!
+
 # Team Members
 
 **Christopher Bussen**
