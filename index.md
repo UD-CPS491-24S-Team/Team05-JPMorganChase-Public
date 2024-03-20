@@ -38,6 +38,8 @@ Jack is a senior Computer Science student at the University of Dayton graduating
 
 **Harshita M.P.**
 
+<img src="assets/images/harshitamp-professional.jpg" width="347" height="500" alt="Harshita M.P." title="Professional Headshot">
+
 Harshita is a senior Computer Science student at the University of Dayton with a concentration in Cyber Defense graduating in December of 2024. Her academic focus aligns with her interests in cyber defense, RPA, and AI. Harshita aims to continue her education by pursuing a Master's degree in Computer Science/Cybersecurity. Please connect with her on LinkedIn <a href="https://www.linkedin.com/in/harshita-m-p-13b656203/">here.</a>
 
 **Duncan Ulman**
