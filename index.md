@@ -6,6 +6,9 @@ layout: default
 
 The purpose of this project is to simulate the processing of streaming financial transactional data in real-time. The team is leveraging Amazon Web Services (AWS) Free Tier to build a data pipeline that validates, processes, and serves the streaming data via an API. The services that are being used are AWS Lambda, Amazon Simple Storage Service (S3), FastAPI, Amazon EventBridge, Amazon Relational Database Service (RDS) for PostgreSQL, and Kubernetes deployed to an Amazon Elastic Compute Cloud (EC2) virtual machine instance.
 
+<h1>Project Overview</h1>
+This project serves as a message streaming platform for fraudulent credit card transaction data. Each transaction is considered a message that can be received, processed, and sent to downstream consumers. Using Amazon Web Services (AWS), we process static data intermittently and check its validity. These checks determine whether to send data to user or store in a destination for bad/fraudulent data.
+
 <h1>Month 1 Overview</h1>
 
 Month 1 was dedicated to design of the AWS infrastructure and technologies that will be used to bring this project to life. The team worked back and forth with our sponsor to refine the design to something that conforms to the AWS Free Tier, while also accomplishing our goal. We ended up deciding on the design below this description. There were a total of four designs that we ended up not using after extensive research and began to plan ahead for month two development.
@@ -14,7 +17,11 @@ Month 1 was dedicated to design of the AWS infrastructure and technologies that 
 
 <h1>Month 2 Overview</h1>
 
-Month 2 was entirely dedicated to development of the design that was realized in month 1. We were able to develop a Lambda function to pull and forward data, stood up an RDS for PostgreSQL database to hold our verified data, and deployed two EC2 instances to run a Kubernetes cluster that will do our data integrity verification and validation. We also developed the applications in Java that will be doing the integrity verification and validation. Take a look at a <a href="https://youtu.be/nTz7m1ExWQE">preliminary demo of the project</a>, which shows going from AWS S3 to our database and the processing in between!
+Month 2 was entirely dedicated to development of the design that was realized in month 1. We were able to develop a Lambda function to pull and forward data, stood up an RDS for PostgreSQL database to hold our verified data, and deployed two EC2 instances to run a Kubernetes cluster that will do our data integrity verification and validation. We also developed the applications in Java that will be doing the integrity verification and validation. Take a look at a <a href="https://youtu.be/nTz7m1ExWQE">preliminary demo of the project at the end of month 2</a>, which shows going from AWS S3 to our database and the processing in between!
+
+<h1>Month 3 Overview</h1>
+
+Month 3 was dedicated to the deployment of our applications to Kubernetes and writing documentation for the system. Using a t3.large instance, we were able to successfully deploy the applications and expose a load balancer for data retrieval through our API service. We also spent time writing our final report and making a <a href="https://youtu.be/LE5P2Hw_cJ8">quick demo video</a> to show the final product.
 
 # Team Members
 
