@@ -17,11 +17,17 @@ Month 1 was dedicated to design of the AWS infrastructure and technologies that 
 
 <h1>Month 2 Overview</h1>
 
-Month 2 was entirely dedicated to development of the design that was realized in month 1. We were able to develop a Lambda function to pull and forward data, stood up an RDS for PostgreSQL database to hold our verified data, and deployed two EC2 instances to run a Kubernetes cluster that will do our data integrity verification and validation. We also developed the applications in Java that will be doing the integrity verification and validation. Take a look at a <a href="https://youtu.be/nTz7m1ExWQE">preliminary demo of the project at the end of month 2</a>, which shows going from AWS S3 to our database and the processing in between!
+Month 2 was entirely dedicated to development of the design that was realized in month 1. We were able to develop a Lambda function to pull and forward data, stood up an RDS for PostgreSQL database to hold our verified data, and deployed two EC2 instances to run a Kubernetes cluster that will do our data integrity verification and validation. We also developed the applications in Java that will be doing the integrity verification and validation. Take a look at a preliminary demo of the project at the end of month 2, which shows going from AWS S3 to our database and the processing in between!
+
+
+<iframe src="assets/videos/capstone_month_2_demo.mp4" frameborder="0" allowfullscreen></iframe>
+
 
 <h1>Month 3 Overview</h1>
 
-Month 3 was dedicated to the deployment of our applications to Kubernetes and writing documentation for the system. Using a t3.large instance, we were able to successfully deploy the applications and expose a load balancer for data retrieval through our API service. We also spent time writing our final report and making a <a href="https://youtu.be/LE5P2Hw_cJ8">quick demo video</a> to show the final product.
+Month 3 was dedicated to the deployment of our applications to Kubernetes and writing documentation for the system. Using a t3.large instance, we were able to successfully deploy the applications and expose a load balancer for data retrieval through our API service. We also spent time writing our final report and making a quick demo video to show the final product.
+
+<iframe src="assets/videos/Capstone%20Team%2005%20Final%20Demo.mp4" frameborder="0" allowfullscreen></iframe>
 
 # Team Members
 
